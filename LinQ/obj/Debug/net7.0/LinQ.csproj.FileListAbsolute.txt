@@ -1,0 +1,15 @@
+/home/arteN01-047/Desktop/LinQ/bin/Debug/net7.0/LinQ
+/home/arteN01-047/Desktop/LinQ/bin/Debug/net7.0/LinQ.deps.json
+/home/arteN01-047/Desktop/LinQ/bin/Debug/net7.0/LinQ.runtimeconfig.json
+/home/arteN01-047/Desktop/LinQ/bin/Debug/net7.0/LinQ.dll
+/home/arteN01-047/Desktop/LinQ/bin/Debug/net7.0/LinQ.pdb
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.AssemblyInfo.cs
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.dll
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/refint/LinQ.dll
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.pdb
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/LinQ.genruntimeconfig.cache
+/home/arteN01-047/Desktop/LinQ/obj/Debug/net7.0/ref/LinQ.dll
