@@ -1,0 +1,30 @@
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfo.cs
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.CoreCompileInputs.cache
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.AssemblyReference.cache
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfoInputs.cache
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfo.cs
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.CoreCompileInputs.cache
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/ejercicio Tienda.exe
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/ejercicio Tienda.deps.json
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/ejercicio Tienda.runtimeconfig.json
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/ejercicio Tienda.dll
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/ejercicio Tienda.pdb
+D:/Users/Usuario/Desktop/ejercicio Tienda/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.CopyComplete
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.dll
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/refint/ejercicio Tienda.dll
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.pdb
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.genruntimeconfig.cache
+D:/Users/Usuario/Desktop/ejercicio Tienda/obj/Debug/net7.0/ref/ejercicio Tienda.dll
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.AssemblyReference.cache
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfoInputs.cache
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfo.cs
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.CoreCompileInputs.cache
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.dll
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/refint/ejercicio Tienda.dll
+/home/apolt01-023/Desktop/LinQ/ejercicios/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.pdb
