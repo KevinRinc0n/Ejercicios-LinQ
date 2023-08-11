@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\linq\practica\agruparr\bin\Debug\net7.0\agruparr.exe
+D:\Users\Usuario\Desktop\linq\practica\agruparr\bin\Debug\net7.0\agruparr.deps.json
+D:\Users\Usuario\Desktop\linq\practica\agruparr\bin\Debug\net7.0\agruparr.runtimeconfig.json
+D:\Users\Usuario\Desktop\linq\practica\agruparr\bin\Debug\net7.0\agruparr.dll
+D:\Users\Usuario\Desktop\linq\practica\agruparr\bin\Debug\net7.0\agruparr.pdb
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.dll
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\refint\agruparr.dll
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.pdb
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\ref\agruparr.dll
