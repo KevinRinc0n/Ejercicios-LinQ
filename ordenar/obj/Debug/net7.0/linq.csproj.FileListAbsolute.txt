@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\linq\bin\Debug\net7.0\linq.exe
+D:\Users\Usuario\Desktop\linq\bin\Debug\net7.0\linq.deps.json
+D:\Users\Usuario\Desktop\linq\bin\Debug\net7.0\linq.runtimeconfig.json
+D:\Users\Usuario\Desktop\linq\bin\Debug\net7.0\linq.dll
+D:\Users\Usuario\Desktop\linq\bin\Debug\net7.0\linq.pdb
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.dll
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\refint\linq.dll
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.pdb
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\linq.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\linq\obj\Debug\net7.0\ref\linq.dll
