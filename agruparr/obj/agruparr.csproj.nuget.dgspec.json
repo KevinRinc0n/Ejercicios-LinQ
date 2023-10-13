@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Usuario\\Desktop\\linq\\practica\\agruparr\\agruparr.csproj": {}
+    "C:\\Users\\kevin\\Desktop\\Ejercicios-LinQ\\agruparr\\agruparr.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Usuario\\Desktop\\linq\\practica\\agruparr\\agruparr.csproj": {
+    "C:\\Users\\kevin\\Desktop\\Ejercicios-LinQ\\agruparr\\agruparr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Usuario\\Desktop\\linq\\practica\\agruparr\\agruparr.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Ejercicios-LinQ\\agruparr\\agruparr.csproj",
         "projectName": "agruparr",
-        "projectPath": "D:\\Users\\Usuario\\Desktop\\linq\\practica\\agruparr\\agruparr.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Usuario\\Desktop\\linq\\practica\\agruparr\\obj\\",
+        "projectPath": "C:\\Users\\kevin\\Desktop\\Ejercicios-LinQ\\agruparr\\agruparr.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin\\Desktop\\Ejercicios-LinQ\\agruparr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

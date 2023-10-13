@@ -13,3 +13,17 @@ D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\refint\agruparr
 D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.pdb
 D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\agruparr.genruntimeconfig.cache
 D:\Users\Usuario\Desktop\linq\practica\agruparr\obj\Debug\net7.0\ref\agruparr.dll
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\bin\Debug\net7.0\agruparr.exe
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\bin\Debug\net7.0\agruparr.deps.json
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\bin\Debug\net7.0\agruparr.runtimeconfig.json
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\bin\Debug\net7.0\agruparr.dll
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\bin\Debug\net7.0\agruparr.pdb
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.dll
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\refint\agruparr.dll
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.pdb
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\agruparr.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Ejercicios-LinQ\agruparr\obj\Debug\net7.0\ref\agruparr.dll
