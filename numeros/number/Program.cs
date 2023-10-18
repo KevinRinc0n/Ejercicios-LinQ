@@ -93,3 +93,36 @@ foreach (var numero in numerosAleatorios)
 }
 Console.WriteLine("La cantidad de numeros pares es: " + par);
 Console.WriteLine("La cantidad de numeros impares es: " + impar);
+
+var conteoNumeros = new Dictionary<int, int>();
+
+foreach (var numero in numerosAleatorios)
+{
+    if (conteoNumeros.ContainsKey(numero))
+    {
+        conteoNumeros[numero] += 1;
+    }
+    else
+    {
+        conteoNumeros[numero] = 1;
+    }
+}
+
+foreach (var numero in conteoNumeros)
+{
+    Console.WriteLine($"{numero.Key}: {numero.Value}");
+}
+
+Console.WriteLine(numerosAleatorios.OrderByDesending());
+
+List<int> numerosUnicos = new List<int>();
+
+foreach (var numero in numerosAleatorios)
+{
+    if (numero )
+    {
+        numerosUnicos.Add(numero);
+    }
+}
+
+Console.WriteLine(numerosUnicos);
